@@ -1,0 +1,10 @@
+<resources>
+    <string-array name="arimatika">
+        <item>tambah(+)</item>
+        <item>kurang(-)</item>
+        <item>bagi(/)</item>
+        <item>kali(*)</item>
+    </string-array>
+
+    <string name="app_name">Tugasmosja</string>
+</resources>
